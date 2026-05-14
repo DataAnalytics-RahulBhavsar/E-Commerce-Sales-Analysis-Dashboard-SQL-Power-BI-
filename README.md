@@ -1,5 +1,17 @@
 # 📊 E-Commerce Sales Analysis Dashboard (Power BI + SQL)
 
+❓ Problem Statement
+
+E-commerce businesses generate large volumes of transactional data every day, but raw data alone does not help decision-makers understand business performance. Companies often struggle to identify:
+
+Which products generate the highest revenue and profit
+Which regions and customer segments perform best
+Seasonal sales patterns and profit trends
+Underperforming products or low-profit customers
+Opportunities to improve profitability and business growth
+
+The objective of this project is to analyze e-commerce sales data using SQL and Power BI to transform raw transactional data into actionable business insights through an interactive dashboard.
+
 ## 🔍 Project Overview
 
 This project presents an end-to-end **E-Commerce Sales Analysis** using **SQL** and **Power BI**.
